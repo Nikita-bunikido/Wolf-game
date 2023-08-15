@@ -1,6 +1,6 @@
 ## WOLF GAME
 
----
+![demo](img/wolf_demo.gif)
 
 This is a game from "Nu pogodi" console written
 on C and working in command line.
